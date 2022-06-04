@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "ashik",
+      "email": "asik@gmail.com",
+      "phone": "324143214312",
+      "uname": "fdsds",
+      "gender": "Male",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ebI6Jem9IowK2OwLmMqOyw8a3YTDc3wRH9DavprdLsMCMXu8X9LaRJzzkfEPFoSmHUw&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "mithila",
+      "email": "dasf@gmail.com",
+      "phone": "78342543254",
+      "uname": "mitha23",
+      "gender": "FeMale",
+      "photo": "https://www.team.gsamdani.com/wp-content/uploads/2016/05/tm9.jpg",
+      "id": 3
+    },
+    {
+      "name": "arif",
+      "email": "arif@gmail.com",
+      "phone": "018329202",
+      "uname": "sa",
+      "gender": "Male",
+      "photo": "https://rnbtheme.com/shortcodes/wp-content/uploads/2016/01/First_m-500x622.png",
+      "id": 4
+    },
+    {
+      "name": "Drubo",
+      "email": "sdafda@gmail.com",
+      "phone": "98068796565",
+      "uname": "Drubo11",
+      "gender": "Male",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCUtJ1ibAu_awaaedjSnmmEJz72iiAvnosIlBnD1B7yI0G9AbuLm2tHbsLAiBeDOgmsM&usqp=CAU",
+      "id": 5
+    }
+  ]
+}
